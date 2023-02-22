@@ -4,7 +4,7 @@ kind: Template
 # some metadata about the template itself
 metadata:
   name: test-template
-  title: Jerzy Test Template
+  title: Brainfuck REST Backend
   description: This template is used to show a couple of functions of Backstage templates
 spec:
   owner: backstage/techdocs-core
